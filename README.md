@@ -4,11 +4,8 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,50:14F195,100:00D18C&height=180&section=header&text=Gourav%20Mishra&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20%E2%80%A2%20Solana%20Ecosystem%20Builder&descAlignY=55&descSize=16" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,50:14F195,100:00D18C&height=200&section=header&text=Gourav%20Mishra&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20TypeScript%20%7C%20Node.js%20%7C%20React%20%7C%20AWS%20%7C%20Solana&descAlignY=52&descSize=13" alt="Gourav Mishra â€” Software Engineer | Full Stack | TypeScript | Node.js | React | AWS | Solana" />
 </p>
-
-<h1 align="center">Hi, I'm Gourav Mishra</h1>
-<h3 align="center">Full Stack Developer â€¢ Solana Ecosystem Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14F195&center=true&vCenter=true&width=620&lines=Building+on+the+full+stack+%E2%80%94+React+to+Solana;Full+Stack+Developer+%40+IDX+Solana;Shipping+wallets%2C+bots+%26+on-chain+tooling;Turning+ideas+into+production+code" alt="Typing SVG" />
@@ -132,9 +129,7 @@ fun_fact: "The average age of programmers is lower than most other industries â€
 ### GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gourav-mishra551&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://icon.mzrdev.com/trophy?username=gourav-mishra551&theme=radical&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -142,8 +137,8 @@ fun_fact: "The average age of programmers is lower than most other industries â€
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gourav-mishra551&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourav-mishra551&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-one-gilt.vercel.app/api?username=gourav-mishra551&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=gourav-mishra551&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -151,7 +146,8 @@ fun_fact: "The average age of programmers is lower than most other industries â€
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gourav-mishra551&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gourav-mishra551&theme=radical" height="180" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gourav-mishra551&theme=radical" height="180" alt="Most commit language" />
 </p>
 
 ---
