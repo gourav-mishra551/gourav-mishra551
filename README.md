@@ -137,11 +137,6 @@ fun_fact: "The average age of programmers is lower than most other industries â€
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-one-gilt.vercel.app/api?username=gourav-mishra551&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=gourav-mishra551&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=gourav-mishra551&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
