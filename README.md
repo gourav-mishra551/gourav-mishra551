@@ -34,13 +34,12 @@
 ```yaml
 name: Gourav Mishra
 role: Full Stack Developer @ IDX Solana
-current_focus: "Ametheus Health website & IDX Solana product suite"
+current_focus: "IDX Solana product suite — wallets, routing & on-chain tooling"
 currently_learning: ["Rust + Anchor at scale", "AI Agents (LangChain, MCP, RAG)"]
 ask_me_about: ["React", "Next.js", "Node.js", "Solana / Web3", "System Design"]
 fun_fact: "The average age of programmers is lower than most other industries — still catching up"
 ```
 
-- Currently building the **Ametheus Health** website
 - Deep in the **Solana** ecosystem — wallets, swap routing, on-chain tooling at **IDX Solana**
 - Leveling up in **Rust** (Anchor / on-chain programs) and **AI agent engineering**
 - Portfolio & work: **[gourav.vercel.app](https://gourav.vercel.app/)**
@@ -54,85 +53,17 @@ fun_fact: "The average age of programmers is lower than most other industries �
 | Project | Stack | Focus |
 | :--- | :--- | :--- |
 | **IDX Solana** | Solana · Web3.js · Anchor · React | Wallets, swap routing, on-chain tooling |
-| **Ametheus Health** | Next.js · Node · PostgreSQL | Production health-tech web experience |
 | **Personal site** | Next.js · Vercel | Portfolio & experiments → [gourav.vercel.app](https://gourav.vercel.app/) |
 
 ---
 
-### Skills at a Glance
+### Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,redis,docker,aws,linux,git,tailwind,redux,python,rust,solidity&perline=9" alt="Skill icons" />
   </a>
 </p>
-
-<details>
-<summary><b>Full tech stack (badges)</b></summary>
-
-<br />
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-3C4043?style=for-the-badge&logo=auth0&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Blockchain**
-
-![Solana](https://img.shields.io/badge/Solana_Web3.js-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![SPL](https://img.shields.io/badge/SPL_Tokens-14F195?style=for-the-badge&logo=solana&logoColor=black)
-![Wallet Adapter](https://img.shields.io/badge/Wallet_Adapter-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor_Framework-000000?style=for-the-badge&logo=rust&logoColor=white)
-![RPC](https://img.shields.io/badge/Solana_RPC-14F195?style=for-the-badge&logo=solana&logoColor=black)
-
-**Mobile & Tools**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-</details>
 
 ---
 
@@ -183,11 +114,15 @@ fun_fact: "The average age of programmers is lower than most other industries �
 
 ---
 
-### Random Dev Joke
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=480&lines=Random+Dev+Joke+%F0%9F%A4%A3" alt="Random Dev Joke" />
+</p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Dev joke card" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=0d1117&borderColor=9945FF&qColor=14F195&aColor=e6edf3&textColor=8b949e&hideBorder" width="680" alt="Dev joke — refreshes on each visit" />
 </p>
+
+<p align="center"><sub>Fresh joke on every refresh</sub></p>
 
 ---
 
